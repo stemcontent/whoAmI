@@ -6,3 +6,4 @@ the functionality is implented
 * [x] Auto text effect animation implemented using CSS and Javascript. Thus, "I'm a" never changes but, the string that comes after it is always changing. 
 * [x] When button is clicked, it redirects the user to my linkedin account
 
+https://stemcontent.github.io/whoAmI/
